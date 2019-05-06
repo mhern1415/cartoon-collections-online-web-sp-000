@@ -8,7 +8,7 @@ def roll_call_dwarves(dwarves)
 end
 
 def roll_call_dwarves(dwarves)
-  
+  dw
   # Your code here
 end
 
